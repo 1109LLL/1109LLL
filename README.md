@@ -9,6 +9,7 @@ Welcome to my Github profile! I am Software Developer with great passion in Full
 
 # 🧑‍💻 My open source repos
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1109LLL&repo=michelin_duck&theme=radical)](https://github.com/1109LLL/michelin_duck)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1109LLL&repo=DBMS_CW&theme=radical)](https://github.com/1109LLL/DBMS_CW)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1109LLL&repo=phone_book_system&theme=radical)](https://github.com/1109LLL/phone_book_system)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1109LLL&repo=FYP&theme=radical)](https://github.com/1109LLL/FYP)
