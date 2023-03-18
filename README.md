@@ -5,7 +5,7 @@
 
 # 👋 Hi!
 
-Welcome to my Github profile! I am Software Developer with great passion in Full Stack and Machine Learning.
+Welcome to my Github profile! I am a Software Developer with great passion in Full Stack and Machine Learning.
 
 # 🧑‍💻 My open source repos
 
