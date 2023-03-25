@@ -8,6 +8,7 @@
 # 🧑‍💻 just some past projects...
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1109LLL&repo=ABM_Netlogo&theme=radical)](https://github.com/1109LLL/ABM_Netlogo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1109LLL&repo=HackKings2022&theme=radical)](https://github.com/1109LLL/HackKings2022)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1109LLL&repo=michelin_duck&theme=radical)](https://github.com/1109LLL/michelin_duck)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1109LLL&repo=DBMS_CW&theme=radical)](https://github.com/1109LLL/DBMS_CW)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1109LLL&repo=phone_book_system&theme=radical)](https://github.com/1109LLL/phone_book_system)
