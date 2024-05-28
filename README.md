@@ -7,6 +7,7 @@
 
 # 🧑‍💻 just some past projects...
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1109LLL&repo=KCL_individual_project&theme=radical)](https://github.com/1109LLL/KCL_individual_project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1109LLL&repo=ABM_Netlogo&theme=radical)](https://github.com/1109LLL/ABM_Netlogo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1109LLL&repo=HackKings2022&theme=radical)](https://github.com/1109LLL/HackKings2022)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1109LLL&repo=michelin_duck&theme=radical)](https://github.com/1109LLL/michelin_duck)
